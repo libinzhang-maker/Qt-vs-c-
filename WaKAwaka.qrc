@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/WaKAwaka">
+        <file>images/exeicon.png</file>
+        <file>images/file.png</file>
+        <file>images/help.png</file>
+        <file>images/history.png</file>
+        <file>images/man-on-phone.png</file>
+        <file>images/media_back_96px.bmp</file>
+        <file>images/media_end_96px.bmp</file>
+        <file>images/media_pause_96p.bmp</file>
+        <file>images/media_play_96p.bmp</file>
+        <file>images/media_repeat_96px.bmp</file>
+        <file>images/media_shuffle_96px.bmp</file>
+        <file>images/MultiMedia 32p-3.ico</file>
+        <file>images/音符01.png</file>
+        <file>images/playing.png</file>
+        <file>images/order.png</file>
+        <file>images/splashWaka.jpg</file>
+        <file>images/splashImage.jpeg</file>
+        <file>images/mainwindowImage.jpg</file>
+    </qresource>
+    <qresource prefix="/sounds">
+        <file>musics/MyAudio_1.mp3</file>
+        <file>musics/恶毒的卡通人物可怕的笑声_耳聆网_[声音ID：11954].wav</file>
+    </qresource>
+    <qresource prefix="/new/prefix1">
+        <file>images/mainwindowImage.jpg</file>
+    </qresource>
+</RCC>
